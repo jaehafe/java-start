@@ -1,5 +1,6 @@
 package ch05.section05;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class ArrayTypeExample {

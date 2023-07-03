@@ -1,3 +1,5 @@
+package ch07.section02;
+
 public class Phone {
     // 필드 선언
     public String model;

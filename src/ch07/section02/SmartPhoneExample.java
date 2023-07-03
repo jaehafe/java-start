@@ -1,3 +1,5 @@
+package ch07.section02;
+
 public class SmartPhoneExample {
     public static void main(String[] args) {
         SmartPhone myPhone = new SmartPhone("iPhone12", "green");

@@ -1,3 +1,5 @@
+package ch07.section02;
+
 public class SmartPhone extends Phone {
     public boolean wifi;
 

@@ -1,5 +1,7 @@
 package ch08.section05;
 
+import java.rmi.Remote;
+
 public class RemoteControlExample {
     public static void main(String[] args) {
         RemoteControl rc;
@@ -21,5 +23,6 @@ public class RemoteControlExample {
         rc.setMute(false);
         System.out.println("current volume: " + rc.getVolume());
 
+        RemoteControl.changeBattery();
     }
 }

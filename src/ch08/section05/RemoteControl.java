@@ -20,4 +20,8 @@ public interface RemoteControl {
             System.out.println("not mute mode");
         }
     }
+
+    static void changeBattery() {
+        System.out.println("change battery");
+    }
 }

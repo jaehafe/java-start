@@ -9,7 +9,7 @@ public class CarExample {
         myCar.run();
 
         System.out.println("--------------");
-        
+
         // 타이어 객체 교체
         myCar.tire1 = new KumhoTire();
         myCar.tire2 = new KumhoTire();

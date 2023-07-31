@@ -17,7 +17,8 @@ public class A {
         b.methodB();
     }
 
-    void method() {
+    void methodA() {
         B b = new B();
+        b.methodB();
     }
 }

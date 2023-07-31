@@ -8,7 +8,8 @@ public class AExample {
         // B 객체 생성
         A.B b = a.new B();
 
-        // A가 가지고 있는 B
+
+        a.methodA();
 
     }
 }

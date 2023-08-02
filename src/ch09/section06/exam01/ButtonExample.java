@@ -17,7 +17,7 @@ public class ButtonExample {
         btnOk.click();
 
         System.out.println("----------------");
-        
+
         // Cancel 버튼 객체 생성
         Button btnCancel = new Button();
 

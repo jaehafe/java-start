@@ -13,6 +13,7 @@ public class Home {
         }
     };
 
+    // method
     public void use1() {
         rc.turnOn();
         rc.turnOff();

@@ -1,4 +1,4 @@
-package ch11.section03;
+package ch11.section03.exam01;
 
 public class ExceptionHandlerExample {
     public static void main(String[] args) {

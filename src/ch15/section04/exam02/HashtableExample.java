@@ -43,6 +43,6 @@ public class HashtableExample {
         //저장된 총 엔트리 수 얻기
         int size = map.size();
         System.out.println("총 엔트리 수: " + size);
-        
+
     }
 }

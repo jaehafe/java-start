@@ -4,7 +4,7 @@ import java02.ch07.sec06.package1.A;
 
 // package1.A 상속
 public class D extends A {
-    private A ;
+//    private A ;
 
     public D() {
         // A() 생성자 호출

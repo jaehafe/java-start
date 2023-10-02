@@ -1,0 +1,18 @@
+package java02.ch08.sec11.exam01;
+
+public class CarExample {
+    public static void main(String[] args) {
+        Car myCar = new Car();
+
+//        myCar.move();
+//        System.out.println();
+//
+        myCar.tire1 = new KumhoTire();
+        myCar.move();
+//
+//        System.out.println();
+//
+//        myCar.tire2 = new HankookTire();
+//        myCar.move();
+    }
+}
